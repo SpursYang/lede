@@ -10,7 +10,7 @@ name: OpenWrt-CI
 on:
   push:
     branches: 
-      - master
+      - SpursYang-patch-1
   # schedule:
   #   - cron: 0 20 * * *
   # release:
